@@ -23,4 +23,4 @@
 - 🌐 legendarybroker.world
 
 ---
-*Siempre construyendo.*
+
