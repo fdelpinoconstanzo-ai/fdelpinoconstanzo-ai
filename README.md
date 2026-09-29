@@ -3,7 +3,6 @@
 > Desarrollador full-stack · Productos digitales · Automatización e IA
 
 ![GitHub followers](https://img.shields.io/github/followers/fdelpinoconstanzo-ai?style=for-the-badge&logo=github&labelColor=0d1117&color=7c3aed)
-![Email](https://img.shields.io/badge/Email-fdelpinoconstanzo%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&labelColor=0d1117)
 ![Web](https://img.shields.io/badge/Web-legendarybroker.world-7c3aed?style=for-the-badge&logo=internet-explorer&labelColor=0d1117)
 
 ## 📊 Stats
