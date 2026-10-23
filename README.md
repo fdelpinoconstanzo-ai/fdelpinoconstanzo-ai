@@ -1,4 +1,4 @@
-# ⚡ Fredy — Legendary Broker
+#  — Legendary Broker
 
 > Desarrollador full-stack · Productos digitales · Automatización e IA
 
